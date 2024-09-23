@@ -19,3 +19,5 @@ Results-oriented Data Analyst with 2 years of experience. I also have 5 years of
 [GitHub](https://github.com/aned-ivan)
 
 [VK](https://github.com/aned-ivan)
+
+[Career.Habr](https://career.habr.com/aned-ivan)
