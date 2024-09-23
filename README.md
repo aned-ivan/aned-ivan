@@ -9,9 +9,11 @@ Results-oriented data analyst with 2 years of experience. I also have 5 years of
 - Jira, Confluence, Trello
 - Market analysis, financial modeling 
 
-- ⚡ Fun fact: As a pet project, I created a table to evaluate stocks and find undervalued assets. I played in a community theater on the stage of the Novosibirsk House of Actors.
+⚡ Fun fact: As a pet project, I created a table to evaluate stocks and find undervalued assets. I played in a community theater on the stage of the Novosibirsk House of Actors.
 
 **Connect with me:**
 [Telegram](https://t.me/aned_ivan)
+
 [GitHub](https://github.com/aned-ivan)
+
 [VK](https://github.com/aned-ivan)
