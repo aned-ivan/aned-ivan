@@ -1,16 +1,17 @@
 ## Hi there 👋
+My name is **Ivan Efimov** 🙋
 
-<!--
-**aned-ivan/aned-ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Results-oriented data analyst with 2 years of experience. I also have 5 years of experience as a project manager. I do analytics because it gives me confidence in the correctness and validity of decisions. In work and life, I like to compare different options to find the most optimal and profitable one.
 
-Here are some ideas to get you started:
+**Primary skills:**
+- SQL, Python (pandas, numpy, math, matplotlib, scipy, seaborn, folium, plotly), Google Sheets, Excel
+- Tableau, Lookerstudio, Yandex.Metrika
+- Jira, Confluence, Trello
+- Market analysis, financial modeling 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: As a pet project, I created a table to evaluate stocks and find undervalued assets. I played in a community theater on the stage of the Novosibirsk House of Actors.
+
+**Connect with me:**
+[Telegram](https://t.me/aned_ivan)
+[GitHub](https://github.com/aned-ivan)
+[VK](https://github.com/aned-ivan)
