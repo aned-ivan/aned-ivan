@@ -9,9 +9,7 @@ My name is **Ivan Efimov**
 
 Results-oriented Data Analyst with 2 years of experience. I also have 5 years of experience as a project manager. I do analytics because it gives me confidence in the correctness and validity of decisions. In work and life, I like to compare different options to find the most optimal and profitable one.
 
-**Основные навыки:**
-
-**Primary skills:**
+**Primary skills (основные навыки):**
 - SQL, Python (pandas, numpy, math, matplotlib, scipy, seaborn, folium, plotly)
 - Google Sheets / Slides, Excel, PowerPoint
 - Tableau, Lookerstudio, Yandex.Metrika
