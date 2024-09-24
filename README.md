@@ -20,6 +20,7 @@ Results-oriented Data Analyst with 2 years of experience. I also have 5 years of
 - Market analysis, financial modeling  
 
 ⚡ Любопытный факт: В качестве личного проекта я создал таблицу для оценки акций и поиска недооцененных активов. Играл в любительском театре на сцене Новосибирского Дома актера.
+
 ⚡ Fun fact: As a pet project, I created a table to evaluate stocks and find undervalued assets. I played in a community theater on the stage of the Novosibirsk House of Actors.
 
 **Connect with me:**
